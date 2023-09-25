@@ -9,7 +9,7 @@ products:
 - trans.owl: https://raw.githubusercontent.com/DiseaseOntology/PathogenTransmissionOntology/main/src/ontology/trans.owl
 - trans.obo: https://raw.githubusercontent.com/DiseaseOntology/PathogenTransmissionOntology/main/src/ontology/trans.obo
 
-term_browser: ontobee
+term_browser: ols
 example_terms:
 - TRANS_0000000
 
